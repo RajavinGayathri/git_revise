@@ -1,0 +1,10 @@
+git reset ####### (removed those commit and retain data)
+git restore fileName.txt
+
+git restore --staged fileName.txt(this will remove file fro staging area itself).
+git reset ###### --hard (removed those commit and  data)
+git log --oneline
+git diff
+git add
+git pull
+git push
