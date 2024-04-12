@@ -8,5 +8,3 @@ git diff
 git add
 git pull
 git merge
-ldjkgajslgjdsa
-agkldasljgklads
